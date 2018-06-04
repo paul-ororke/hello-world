@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Some changes while I learn about GIT and Github.
